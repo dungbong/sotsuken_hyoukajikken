@@ -24,7 +24,7 @@
 メールテンプレート作成方法（Gmail）：https://support.google.com/a/users/answer/9308990?hl=en
 
 ## 本システムの使い方
-* WindowsのCommand PromptやMacのTerminalを開いて、下記のコマンドでシステムを起動できます<pre><code>python main.py</code></pre>
+* WindowsのCommand PromptやMacのTerminalを開いて、本システムが置いてあるディレクトリへ移動します。下記のコマンドでシステムを起動できます<pre><code>python main.py</code></pre>
 * 上のメニューバーにある"メール作成"を選んで、"キーワード入力"を選ぶと、検索画面が出ます
 * 作成したい場面に関する単語を入力して、"検索"ボタンを押すと、定型メールのデータベースから検索できます。検索単語は複数の場合、"、"で区切ります
 * 出てきた検索結果について、各定型メールの上の方は件名で、下の方はそのメールの重要な単語です。
