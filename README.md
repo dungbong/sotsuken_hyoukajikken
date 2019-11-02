@@ -37,4 +37,5 @@
 
 
 ## 評価方法
-・アンケート：https://docs.google.com/forms/d/e/1FAIpQLSeJwLYg_dIfULRmdU7JYV1z23kIhBUxhj3c6zkuYOJK0SLt3Q/viewform?usp=sf_link
+* アンケート：https://docs.google.com/forms/d/e/1FAIpQLSeJwLYg_dIfULRmdU7JYV1z23kIhBUxhj3c6zkuYOJK0SLt3Q/viewform?usp=sf_link
+* ヒヤリング：被験者に聞く
